@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react.js, django, php, Javascript, Nginx, Node.js, Mysql, Ethical Hacking**
 
-- 📫 How to reach me **sunilspatil98600@gmail.com**
+- 📫 How to reach me **sunilspatil9860@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
