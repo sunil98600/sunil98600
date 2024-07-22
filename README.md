@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sunil98600](https://github.com/sunil98600)
 
-- 💬 Ask me about **react.js, django, php, Javascript, Nginx, Node.js, Mysql, Ethical Hacking**
+- 💬 Ask me about **react.js, django, java, Javascript, Node.js, Mysql, Ethical Hacking**
 
 - 📫 How to reach me **sunilspatil9860@gmail.com**
 
