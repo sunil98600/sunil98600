@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil98600&label=Profile%20views&color=0e75b6&style=flat" alt="sunil98600" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security, Ethical Hacking,Web Development Techniques**
+- 🌱 I’m currently learning **Cyber Security,Web Development Techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sunil98600](https://github.com/sunil98600)
 
